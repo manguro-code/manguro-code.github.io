@@ -3,169 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>manguro-code | приветствие</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-
-        body {
-            min-height: 100vh;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-        }
-
-        .card {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 30px;
-            padding: 40px;
-            max-width: 1000px;
-            width: 100%;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            animation: fadeInUp 1s ease;
-        }
-
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-
-        .header h1 {
-            font-size: 3.5rem;
-            color: #333;
-            margin-bottom: 10px;
-            letter-spacing: 2px;
-        }
-
-        .header h1 span {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
-        .header p {
-            font-size: 1.2rem;
-            color: #666;
-            border-bottom: 2px solid #f0f0f0;
-            padding-bottom: 20px;
-        }
-
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 25px;
-            margin: 40px 0;
-        }
-
-        .grid-item {
-            background: white;
-            border-radius: 20px;
-            padding: 25px;
-            text-align: center;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            transition: transform 0.3s, box-shadow 0.3s;
-            border: 1px solid rgba(255,255,255,0.5);
-        }
-
-        .grid-item:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(102, 126, 234, 0.3);
-        }
-
-        .grid-item .emoji {
-            font-size: 3rem;
-            margin-bottom: 15px;
-        }
-
-        .grid-item h3 {
-            font-size: 1.5rem;
-            color: #333;
-            margin-bottom: 10px;
-        }
-
-        .grid-item p {
-            color: #777;
-            line-height: 1.6;
-        }
-
-        .footer {
-            text-align: center;
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 2px solid #f0f0f0;
-            color: #999;
-            font-size: 0.9rem;
-        }
-
-        .footer a {
-            color: #667eea;
-            text-decoration: none;
-            font-weight: 600;
-        }
-
-        .footer a:hover {
-            text-decoration: underline;
-        }
-
-        /* Адаптивность */
-        @media (max-width: 600px) {
-            .card {
-                padding: 20px;
-            }
-            .header h1 {
-                font-size: 2.5rem;
-            }
-        }
-    </style>
+    <title>manguro-code | Главная</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="card">
-        <div class="header">
-            <h1>Привет, я <span>manguro-code</span></h1>
-            <p>Добро пожаловать на мою страницу‑портфолио</p>
-        </div>
+    <div class="container">
+        <nav>
+            <a href="index.html">Главная</a>
+            <a href="about.html">Обо мне</a>
+            <a href="projects.html">Проекты</a>
+            <a href="contact.html">Контакты</a>
+        </nav>
+
+        <h1>Привет, я <span>manguro-code</span></h1>
+        <div class="subtitle">Добро пожаловать на мою страницу‑портфолио</div>
 
         <div class="grid">
-            <div class="grid-item">
+            <div class="card">
                 <div class="emoji">💻</div>
                 <h3>Код</h3>
                 <p>Пишу на Python, JavaScript, HTML/CSS. Постоянно учусь новому.</p>
             </div>
-            <div class="grid-item">
+            <div class="card">
                 <div class="emoji">🎨</div>
                 <h3>Дизайн</h3>
                 <p>Создаю красивые и отзывчивые интерфейсы, чтобы пользователям было приятно.</p>
             </div>
-            <div class="grid-item">
+            <div class="card">
                 <div class="emoji">🚀</div>
                 <h3>Проекты</h3>
                 <p>Здесь скоро появятся мои работы. Следите за обновлениями!</p>
             </div>
         </div>
 
-        <div class="footer">
+        <footer>
             Сделано с ❤️ на чистом HTML5 и CSS. <br>
             <a href="https://github.com/manguro-code" target="_blank">Мой GitHub</a>
-        </div>
+        </footer>
     </div>
 </body>
 </html>
