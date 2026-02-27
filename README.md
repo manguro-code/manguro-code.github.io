@@ -1,3 +1,5 @@
+## 🇷🇺 РУССКИЙ | RUSSIAN
+
 # 💼 Портфолио разработчика | manguro-code
 
 Добро пожаловать в репозиторий моего персонального сайта-портфолио. Здесь я собрал ключевую информацию о своих навыках, проектах и опыте в сфере разработки, дизайна и инженерии.
@@ -50,6 +52,10 @@ cd manguro-code.github.io
 
 ---
 
+---
+
+## 🇬🇧 ENGLISH | АНГЛИЙСКИЙ
+
 # 💼 Developer Portfolio | manguro-code
 
 Welcome to the repository of my personal portfolio website. Here I have gathered key information about my skills, projects, and experience in development, design, and engineering.
@@ -101,6 +107,10 @@ If you have collaboration proposals or just want to discuss technologies — I'l
 *Made with attention to detail.*
 
 ---
+
+---
+
+## 🇪🇸 ESPAÑOL | ИСПАНСКИЙ
 
 # 💼 Portafolio de Desarrollador | manguro-code
 
