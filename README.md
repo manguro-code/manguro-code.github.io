@@ -1,6 +1,6 @@
-# 📚 Многоязычный README | Multilingual README | README multilingüe
 
-## 🔍 Навигация | Navigation | Navegación
+
+# 🔍 Навигация | Navigation | Navegación
 
 | <img src="https://flagcdn.com/16x12/ru.png" width="16" height="12"> Русский | <img src="https://flagcdn.com/16x12/gb.png" width="16" height="12"> English | <img src="https://flagcdn.com/16x12/es.png" width="16" height="12"> Español |
 |------|---------|----------|
