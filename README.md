@@ -1,16 +1,29 @@
-## 🇷🇺 РУССКИЙ | RUSSIAN
+# 📚 Многоязычный README | Multilingual README | README multilingüe
+
+## 🔍 Навигация | Navigation | Navegación
+
+| <img src="https://flagcdn.com/16x12/ru.png" width="16" height="12"> Русский | <img src="https://flagcdn.com/16x12/gb.png" width="16" height="12"> English | <img src="https://flagcdn.com/16x12/es.png" width="16" height="12"> Español |
+|------|---------|----------|
+| [Перейти к русской версии](#ru) | [Go to English version](#en) | [Ir a la versión española](#es) |
+
+---
+
+<a name="ru"></a>
+## <img src="https://flagcdn.com/24x18/ru.png" width="20" height="15"> РУССКАЯ ВЕРСИЯ
+
+[⬆ Вернуться к навигации](#-навигация--navigation--navegación)
 
 # 💼 Портфолио разработчика | manguro-code
 
 Добро пожаловать в репозиторий моего персонального сайта-портфолио. Здесь я собрал ключевую информацию о своих навыках, проектах и опыте в сфере разработки, дизайна и инженерии.
 
-## 🌐 Сайт
+### 🌐 Сайт
 
 Актуальная версия портфолио доступна по ссылке:
 
 👉 **[manguro-code.github.io](https://manguro-code.github.io/index.html)**
 
-## 📌 О проекте
+### 📌 О проекте
 
 Этот сайт — моя визитная карточка в digital-пространстве. Выполнен в минималистичном корпоративном стиле с акцентом на читаемость и удобство навигации. Архитектура проекта продумана так, чтобы пользователь мог быстро найти нужную информацию без лишних действий.
 
@@ -20,7 +33,7 @@
 - **Проекты** — примеры реализованных задач с описанием технологий
 - **Контакты** — удобная форма связи и ссылки на профили
 
-## 🛠️ Технологический стек
+### 🛠️ Технологический стек
 
 Проект построен на классическом фронтенд-стеке с акцентом на чистоту кода и адаптивность:
 
@@ -28,16 +41,7 @@
 - **CSS3** — Flexbox, Grid, адаптивная вёрстка под все устройства
 - **Git / GitHub Pages** — контроль версий и бесплатный хостинг
 
-## 🚀 Локальный запуск
-
-Чтобы развернуть проект на своём компьютере:
-
-git clone https://github.com/manguro-code/manguro-code.github.io.git
-cd manguro-code.github.io
-
-Затем откройте файл index.html в любом современном браузере — никаких дополнительных зависимостей или сборщиков не требуется.
-
-## 📬 Контакты
+### 📬 Контакты
 
 Если у вас есть предложения о сотрудничестве или просто хотите обсудить технологии — буду рад пообщаться:
 
@@ -52,31 +56,32 @@ cd manguro-code.github.io
 
 ---
 
----
+<a name="en"></a>
+## <img src="https://flagcdn.com/24x18/gb.png" width="20" height="15"> ENGLISH VERSION
 
-## 🇬🇧 ENGLISH | АНГЛИЙСКИЙ
+[⬆ Back to navigation](#-навигация--navigation--navegación)
 
 # 💼 Developer Portfolio | manguro-code
 
 Welcome to the repository of my personal portfolio website. Here I have gathered key information about my skills, projects, and experience in development, design, and engineering.
 
-## 🌐 Website
+### 🌐 Website
 
 The current version of the portfolio is available at:
 
 👉 **[manguro-code.github.io](https://manguro-code.github.io/index.html)**
 
-## 📌 About the Project
+### 📌 About the Project
 
 This website is my business card in the digital space. It is designed in a minimalist corporate style with an emphasis on readability and ease of navigation. The project architecture is thoughtfully organized so that users can quickly find the information they need without unnecessary actions.
 
 **Site Structure:**
 - **Home** — overview of key competencies: from web development to radio electronics
-- **About Me** — professional journey, current tasks, and development directions
+- **About Me** — professional journey, current tasks and development directions
 - **Projects** — examples of completed tasks with technology descriptions
 - **Contacts** — convenient communication form and profile links
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 The project is built on a classic frontend stack with an emphasis on clean code and adaptability:
 
@@ -84,16 +89,7 @@ The project is built on a classic frontend stack with an emphasis on clean code 
 - **CSS3** — Flexbox, Grid, responsive design for all devices
 - **Git / GitHub Pages** — version control and free hosting
 
-## 🚀 Local Launch
-
-To run the project on your computer:
-
-git clone https://github.com/manguro-code/manguro-code.github.io.git
-cd manguro-code.github.io
-
-Then open the index.html file in any modern browser — no additional dependencies or build tools required.
-
-## 📬 Contacts
+### 📬 Contacts
 
 If you have collaboration proposals or just want to discuss technologies — I'll be happy to connect:
 
@@ -108,21 +104,22 @@ If you have collaboration proposals or just want to discuss technologies — I'l
 
 ---
 
----
+<a name="es"></a>
+## <img src="https://flagcdn.com/24x18/es.png" width="20" height="15"> VERSIÓN ESPAÑOLA
 
-## 🇪🇸 ESPAÑOL | ИСПАНСКИЙ
+[⬆ Volver a navegación](#-навигация--navigation--navegación)
 
 # 💼 Portafolio de Desarrollador | manguro-code
 
 Bienvenido al repositorio de mi sitio web de portafolio personal. Aquí he recopilado información clave sobre mis habilidades, proyectos y experiencia en desarrollo, diseño e ingeniería.
 
-## 🌐 Sitio Web
+### 🌐 Sitio Web
 
 La versión actual del portafolio está disponible en:
 
 👉 **[manguro-code.github.io](https://manguro-code.github.io/index.html)**
 
-## 📌 Sobre el Proyecto
+### 📌 Sobre el Proyecto
 
 Este sitio web es mi tarjeta de presentación en el espacio digital. Está diseñado en un estilo corporativo minimalista con énfasis en la legibilidad y facilidad de navegación. La arquitectura del proyecto está pensada para que los usuarios puedan encontrar rápidamente la información que necesitan sin acciones innecesarias.
 
@@ -132,7 +129,7 @@ Este sitio web es mi tarjeta de presentación en el espacio digital. Está dise�
 - **Proyectos** — ejemplos de tareas realizadas con descripción de tecnologías
 - **Contactos** — formulario de contacto conveniente y enlaces a perfiles
 
-## 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
 El proyecto está construido sobre un stack frontend clásico con énfasis en código limpio y adaptabilidad:
 
@@ -140,16 +137,7 @@ El proyecto está construido sobre un stack frontend clásico con énfasis en c�
 - **CSS3** — Flexbox, Grid, diseño responsive para todos los dispositivos
 - **Git / GitHub Pages** — control de versiones y hosting gratuito
 
-## 🚀 Ejecución Local
-
-Para ejecutar el proyecto en tu computadora:
-
-git clone https://github.com/manguro-code/manguro-code.github.io.git
-cd manguro-code.github.io
-
-Luego abre el archivo index.html en cualquier navegador moderno — no se requieren dependencias adicionales ni herramientas de compilación.
-
-## 📬 Contactos
+### 📬 Contactos
 
 Si tienes propuestas de colaboración o simplemente quieres discutir tecnologías — estaré encantado de conectar:
 
